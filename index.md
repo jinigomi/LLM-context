@@ -10,5 +10,6 @@
 - [[harness-pattern]] - Pattern for managing long-running app lifecycles.
 
 ## Comparisons
+- [[solo-vs-harness]] - Analysis of cost/quality lift using a multi-agent harness.
 
 ## Queries
